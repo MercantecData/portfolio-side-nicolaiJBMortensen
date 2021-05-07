@@ -1,0 +1,19 @@
+img
+{
+    height: 200;
+    width: 150;
+}
+h1
+{
+    font-family: "Times New Roman", Times, serif;
+}
+P.P2
+{
+    border-style: solid;
+    border-width: medium;
+}
+div
+{
+border-style: groove;
+border-width: medium;
+}
